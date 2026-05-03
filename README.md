@@ -36,6 +36,7 @@
 <td align="center" width="33%">
 
 ### 🚀 Build
+
 Scalable web platforms  
 Modern business systems  
 Production-ready solutions
@@ -44,6 +45,7 @@ Production-ready solutions
 <td align="center" width="33%">
 
 ### 🧠 Design
+
 Clean architecture  
 Thoughtful UI/UX  
 Maintainable structure
@@ -52,6 +54,7 @@ Maintainable structure
 <td align="center" width="33%">
 
 ### 🗄️ Engineer
+
 Database-first thinking  
 Reliable backend logic  
 Practical system workflows
@@ -69,6 +72,7 @@ Practical system workflows
 I am **Abdul Kabir ALAMYAR**, a **Full Stack Software Engineer** focused on building modern, maintainable, and scalable web systems.
 
 I enjoy combining:
+
 - **clean UI design**
 - **solid backend architecture**
 - **database engineering**
@@ -89,7 +93,7 @@ I enjoy combining:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge" alt="English" />
+<img src="https://img.shields.io/badge/English-Native-2563EB?style=for-the-badge" alt="English" />
 <img src="https://img.shields.io/badge/Dari-Native-16A34A?style=for-the-badge" alt="Dari" />
 <img src="https://img.shields.io/badge/Pashto-Native-DC2626?style=for-the-badge" alt="Pashto" />
 
@@ -106,6 +110,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Development
+
 - Responsive interfaces
 - Component-driven architecture
 - Modern UI systems
@@ -116,6 +121,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### ⚙️ Backend Development
+
 - API development
 - Business rule implementation
 - Authentication flows
@@ -128,6 +134,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🗄️ Database Engineering
+
 - SQL schema design
 - Query optimization
 - Normalization
@@ -138,6 +145,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🧪 Product Development
+
 - Problem-solving systems
 - Workflow-focused apps
 - Dashboard and admin platforms
@@ -161,7 +169,7 @@ I enjoy combining:
 <br/>
 <br/>
 
-<img width="100%" src="./assets/tech-floating-cards.svg" alt="Floating 3D Tech Stack" />
+<img width="100%" src="https://raw.githubusercontent.com/Toofan1231/Toofan1231/main/assets/tech-floating-cards.svg" alt="Floating 3D Tech Stack" />
 
 **Floating 3D cards for a more premium and interactive tech presentation**
 
@@ -206,6 +214,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🧾 Afghan Paints Management System
+
 **Type:** Business Management Platform  
 **Focus:** Products, warehouse, sales, reporting  
 **Highlights:** Smart forms, inventory logic, unit conversion, PDF workflows, RTL-friendly experience
@@ -214,6 +223,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🛒 Perfume Store
+
 **Type:** E-commerce Storefront  
 **Focus:** Product browsing, modern responsive experience  
 **Live:** [Visit Project](https://perfume-store-88z7.onrender.com)  
@@ -225,6 +235,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🌐 Developer Brand Portfolio
+
 **Type:** Premium Portfolio Website  
 **Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion  
 **Focus:** Personal branding, modern visuals, service presentation, conversion-focused design
@@ -233,6 +244,7 @@ I enjoy combining:
 <td width="50%" valign="top">
 
 ### 🧩 Database-Driven Web Solutions
+
 **Type:** Custom Engineering Solutions  
 **Focus:** Data models, dashboards, workflows, reporting systems  
 **Goal:** Reliable systems for real operational use
@@ -254,24 +266,28 @@ I enjoy combining:
 <td align="center" width="25%">
 
 ### 💎 Premium UI
+
 Modern, elegant, structured visual presentation
 
 </td>
 <td align="center" width="25%">
 
 ### 🔧 Real Logic
+
 Systems designed for actual operational workflows
 
 </td>
 <td align="center" width="25%">
 
 ### 🧱 Clean Structure
+
 Maintainable architecture with reusable patterns
 
 </td>
 <td align="center" width="25%">
 
 ### 📈 Growth Ready
+
 Built to scale and evolve over time
 
 </td>
@@ -327,6 +343,7 @@ Built to scale and evolve over time
 I aim to build systems that connect **beautiful interfaces**, **strong engineering**, and **reliable business functionality**.
 
 My direction is centered on:
+
 - premium web experiences
 - modern engineering practices
 - structured full stack product development
@@ -347,6 +364,7 @@ Premium visuals + Real business logic + Clean architecture = Meaningful products
 </div>
 
 ### My signature approach:
+
 - I treat **design and development as one system**, not two separate tasks.
 - I focus on interfaces that feel modern and polished.
 - I structure code for clarity, maintainability, and future extension.
