@@ -164,24 +164,76 @@ I enjoy combining:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=HTML5+%E2%80%A2+CSS3+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+React;Next.js+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Java+%E2%80%A2+MongoDB;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+Tailwind+CSS+%E2%80%A2+Git+%E2%80%A2+Vite" alt="tech-stack-animation" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=95&color=0:020617,45:0E7490,100:00F79A&text=Premium%20Development%20Stack&fontColor=FFFFFF&fontSize=28&animation=blinking" alt="Premium Development Stack" />
 
 <br/>
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Toofan1231/Toofan1231/main/assets/tech-floating-cards.svg" alt="Floating 3D Tech Stack" />
-
-**Floating 3D cards for a more premium and interactive tech presentation**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=Frontend+Engineering+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Backend+Development+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Java;Database+Engineering+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Modern+UI+%E2%80%A2+Clean+Architecture+%E2%80%A2+Production+Ready" alt="Animated Tech Stack" />
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:111827,50:0E7490,100:00F79A&text=Live%20Tech%20Environment&fontColor=FFFFFF&fontSize=26&animation=blinking" alt="Live Tech Environment" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" alt="Frontend Skills" />
 
 <br/>
+
+`HTML5` `CSS3` `JavaScript`  
+`TypeScript` `React` `Next.js`  
+`Tailwind CSS`
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,java&perline=3" alt="Backend Skills" />
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,java,mongodb,mysql,postgresql,tailwind,git,github,vscode,vite&perline=9" alt="skill-icons" />
+`Node.js` `PHP` `Java`  
+`REST APIs` `Business Logic`  
+`Clean Structure`
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" alt="Database Skills" />
+
+<br/>
+
+`MongoDB` `MySQL` `PostgreSQL`  
+`Schema Design` `Queries`  
+`Reporting Logic`
+
+</td>
+<td align="center" width="25%">
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&perline=4" alt="Tools" />
+
+<br/>
+
+`Git` `GitHub` `VS Code`  
+`Vite` `Workflow`  
+`Delivery`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:00F79A,100:0EA5E9" alt="line" />
 
 <br/>
 <br/>
