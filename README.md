@@ -1,265 +1,222 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,25:0F172A,55:0E7490,100:00F79A&text=Abdul%20Kabir%20ALAMYAR&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Database%20Engineering%20%E2%80%A2%20Scalable%20Web%20Systems&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,45:0E7490,100:00F79A&text=Abdul%20Kabir%20ALAMYAR&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Database-Driven%20Systems%20Builder&descAlignY=58&descSize=17&animation=fadeIn)
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=00F79A&center=true&vCenter=true&width=980&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;SQL+%7C+MongoDB+%7C+Database+Engineering;Building+Production-Ready+Business+Systems;Clean+Architecture+%E2%80%A2+Strong+UI+%E2%80%A2+Reliable+Logic" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1100&color=00F79A&center=true&vCenter=true&random=false&width=980&lines=Building+premium+digital+products;Designing+clean+architecture+for+real+business+systems;Frontend+%E2%80%A2+Backend+%E2%80%A2+Database+Engineering;Modern+development+with+strong+logic+and+clean+UX;Turning+ideas+into+production-ready+web+platforms" alt="Typing SVG" />
-
-<br/>
-<br/>
+<br />
+<br />
 
 <a href="https://github.com/Toofan1231">
-  <img src="https://img.shields.io/badge/GitHub-Toofan1231-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=Toofan1231&label=Profile%20Views&color=00F79A&style=for-the-badge" alt="Profile Views" />
 </a>
 <a href="mailto:gardezioffice@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://komarev.com/ghpvc/?username=Toofan1231&label=Profile%20Views&color=00F79A&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Profile-Visitors-00F79A?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Visitors" />
+<a href="https://github.com/Toofan1231?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-View%20Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-# ✨ Engineering Identity
-
-</div>
+## 🚀 Professional Profile Intro
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:020617,45:0E7490,100:00F79A&text=I%20Build%20Modern%20Business%20Systems&fontColor=FFFFFF&fontSize=30&animation=fadeIn" alt="Professional Intro" />
+
+<br/>
+<br/>
+
+### I help businesses transform manual workflows into modern, reliable, and scalable web systems.
+
+<br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🚀 Build
-
-Scalable web platforms  
-Modern business systems  
-Production-ready solutions
+### 🔁 From Manual
+Paper-based work, scattered data, slow reporting, and repeated daily tasks.
 
 </td>
 <td align="center" width="33%">
 
-### 🧠 Design
-
-Clean architecture  
-Thoughtful UI/UX  
-Maintainable structure
+### ⚙️ To Digital
+Clean dashboards, structured workflows, database-driven systems, and automation-ready logic.
 
 </td>
 <td align="center" width="33%">
 
-### 🗄️ Engineer
-
-Database-first thinking  
-Reliable backend logic  
-Practical system workflows
+### 🚀 To Growth
+Faster decisions, better control, professional user experience, and scalable architecture.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
-
-## 👨‍💻 About Me
-
-I am **Abdul Kabir ALAMYAR**, a **Full Stack Software Engineer** focused on building modern, maintainable, and scalable web systems.
-
-I enjoy combining:
-
-- **clean UI design**
-- **solid backend architecture**
-- **database engineering**
-- **real business logic**
-- **practical user-centered development**
-
-> I build systems that are not only visually polished, but also structured for long-term reliability and growth.
-
-<div align="center">
-
-`Frontend Experience` • `Backend Logic` • `Database Systems` • `Business Platforms`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00F79A&center=true&vCenter=true&width=980&lines=Business+Systems+Developer;Full+Stack+Software+Engineer;Database-Driven+Application+Builder;Modern+Web+Platforms+for+Real+Operations;Clean+Architecture+%E2%80%A2+Premium+UI+%E2%80%A2+Reliable+Logic" alt="Professional Developer Intro" />
 
 </div>
 
 ---
 
-## 🌍 Languages
+## 👨‍💻 Engineering Overview
+
+I am **Abdul Kabir ALAMYAR**, a Full Stack Software Engineer focused on building scalable, maintainable, and production-ready web systems.
+
+- I build **business platforms**, dashboards, inventory systems, reporting workflows, and product websites.
+- I focus on **clean architecture**, reusable components, database logic, and practical user experience.
+- I work with modern frontend stacks, backend systems, and database-first application design.
+
+> انجنیر نرم‌افزار با تمرکز بر ساخت سیستم‌های قابل توسعه، قابل اعتماد و آماده برای استفاده‌ی واقعی.
+>
+> د سافټویر انجنیر چې د پراختیا وړ، باوري او عملي سیسټمونه جوړوي.
+
+---
+
+## 🌐 Languages
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/English-Native-2563EB?style=for-the-badge" alt="English" />
-<img src="https://img.shields.io/badge/Dari-Native-16A34A?style=for-the-badge" alt="Dari" />
-<img src="https://img.shields.io/badge/Pashto-Native-DC2626?style=for-the-badge" alt="Pashto" />
+![English](https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge)
+![Dari](https://img.shields.io/badge/Dari-Native-16A34A?style=for-the-badge)
+![Pashto](https://img.shields.io/badge/Pashto-Native-DC2626?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧩 Core Focus Areas
-
-<div align="center">
+## 🧠 Core Engineering Domains
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎨 Frontend Development
+### 🎨 Frontend Systems
 
-- Responsive interfaces
-- Component-driven architecture
-- Modern UI systems
-- Reusable design patterns
-- RTL-friendly layout thinking
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-- API development
-- Business rule implementation
-- Authentication flows
-- Scalable structure
-- Clean integration layers
+- Responsive web interfaces
+- Component architecture
+- State management
+- UI/UX polish
+- RTL-friendly layouts
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### ⚙️ Backend Systems
+
+- REST API development
+- Business logic implementation
+- Authentication workflows
+- System architecture
+- Deployment-ready structure
+
+</td>
+<td width="33%" valign="top">
 
 ### 🗄️ Database Engineering
 
 - SQL schema design
 - Query optimization
-- Normalization
-- Data integrity
-- Reporting-ready structures
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Product Development
-
-- Problem-solving systems
-- Workflow-focused apps
-- Dashboard and admin platforms
-- Performance-conscious delivery
-- Practical production mindset
+- Data normalization
+- Inventory logic
+- Reporting and analytics
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Technology Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=95&color=0:020617,45:0E7490,100:00F79A&text=Premium%20Development%20Stack&fontColor=FFFFFF&fontSize=28&animation=blinking" alt="Premium Development Stack" />
+### Frontend
 
-<br/>
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-Production-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Production-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-Product%20Apps-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-UI%20Systems-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=980&lines=Frontend+Engineering+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Backend+Development+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Java;Database+Engineering+%E2%80%A2+MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Modern+UI+%E2%80%A2+Clean+Architecture+%E2%80%A2+Production+Ready" alt="Animated Tech Stack" />
+### Backend
 
-<br/>
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="25%">
+### Database
 
-### 🎨 Frontend
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4" alt="Frontend Skills" />
+### Tools & Delivery
 
-<br/>
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Team%20Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Fast%20Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-Animation-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-`HTML5` `CSS3` `JavaScript`  
-`TypeScript` `React` `Next.js`  
-`Tailwind CSS`
+<br />
 
-</td>
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,java&perline=3" alt="Backend Skills" />
-
-<br/>
-
-`Node.js` `PHP` `Java`  
-`REST APIs` `Business Logic`  
-`Clean Structure`
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" alt="Database Skills" />
-
-<br/>
-
-`MongoDB` `MySQL` `PostgreSQL`  
-`Schema Design` `Queries`  
-`Reporting Logic`
-
-</td>
-<td align="center" width="25%">
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&perline=4" alt="Tools" />
-
-<br/>
-
-`Git` `GitHub` `VS Code`  
-`Vite` `Workflow`  
-`Delivery`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:00F79A,100:0EA5E9" alt="line" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-Production-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Production-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=111827" />
-<img src="https://img.shields.io/badge/Next.js-Modern-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Engineering-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-Clean_UI-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-Fast_Build-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,java,mongodb,mysql,postgresql,git,github,vscode,vite,tailwind" alt="Skill Icons" />
 
 </div>
 
 ---
 
-## 💼 Selected Projects
+## 🏆 Featured Case Study
 
 <div align="center">
+
+![Case Study](https://capsule-render.vercel.app/api?type=rect&height=105&color=0:111827,50:0E7490,100:00F79A&text=Afghan%20Paints%20Management%20System&fontColor=FFFFFF&fontSize=28&desc=Inventory%20%E2%80%A2%20Sales%20%E2%80%A2%20Profit%20Calculation%20%E2%80%A2%20Reporting&descSize=14&descAlignY=70)
+
+</div>
+
+### Afghan Paints Management System
+
+A business platform designed for real operational workflow, product management, warehouse control, sales processing, profit calculation, and reporting.
+
+| Area | Engineering Focus |
+|---|---|
+| **Product Management** | Product code, product type, unit conversion, purchase price logic |
+| **Warehouse Control** | Inventory flow, stock updates, purchase handling |
+| **Sales Processing** | Carton, piece, gram, kilo, and meter-based sales workflows |
+| **Profit Calculation** | Dynamic profit logic based on purchase price and selling price |
+| **Reporting** | Business reports, PDF export, profit summaries |
+| **Interface** | RTL polish, smart forms, clean operator experience |
+
+### System Modules
+
+- Product Management
+- Warehouse / Inventory Control
+- Sales Processing
+- Profit Calculation
+- Reports and PDF Export
+- Smart Forms for different product units
+
+### Stack Used
+
+![React](https://img.shields.io/badge/React-UI%20Layer-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-Clean%20UI-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State%20Management-111827?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Logic-2563EB?style=flat-square)
+
+---
+
+## 💼 Project Portfolio
 
 <table>
 <tr>
@@ -267,9 +224,9 @@ I enjoy combining:
 
 ### 🧾 Afghan Paints Management System
 
-**Type:** Business Management Platform  
-**Focus:** Products, warehouse, sales, reporting  
-**Highlights:** Smart forms, inventory logic, unit conversion, PDF workflows, RTL-friendly experience
+**Type:** Business Management System  
+**Focus:** Products, warehouse, sales, profit, reports  
+**Highlights:** Smart forms, unit conversion, PDF export, RTL UI
 
 </td>
 <td width="50%" valign="top">
@@ -277,9 +234,9 @@ I enjoy combining:
 ### 🛒 Perfume Store
 
 **Type:** E-commerce Storefront  
-**Focus:** Product browsing, modern responsive experience  
-**Live:** [Visit Project](https://perfume-store-88z7.onrender.com)  
-**Code:** [Repository](https://github.com/Toofan1231/perfume-store)
+**Focus:** Product browsing, responsive UI, deployment  
+**Live:** [perfume-store-88z7.onrender.com](https://perfume-store-88z7.onrender.com)  
+**Code:** [GitHub Repository](https://github.com/Toofan1231/perfume-store)
 
 </td>
 </tr>
@@ -288,143 +245,95 @@ I enjoy combining:
 
 ### 🌐 Developer Brand Portfolio
 
-**Type:** Premium Portfolio Website  
+**Type:** Product-style Portfolio Website  
 **Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion  
-**Focus:** Personal branding, modern visuals, service presentation, conversion-focused design
+**Focus:** 3D visual direction, service positioning, case studies, lead generation
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Database-Driven Web Solutions
+### 🧩 Database-Driven Web Systems
 
-**Type:** Custom Engineering Solutions  
-**Focus:** Data models, dashboards, workflows, reporting systems  
-**Goal:** Reliable systems for real operational use
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 What Makes My Work Different?
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💎 Premium UI
-
-Modern, elegant, structured visual presentation
-
-</td>
-<td align="center" width="25%">
-
-### 🔧 Real Logic
-
-Systems designed for actual operational workflows
-
-</td>
-<td align="center" width="25%">
-
-### 🧱 Clean Structure
-
-Maintainable architecture with reusable patterns
-
-</td>
-<td align="center" width="25%">
-
-### 📈 Growth Ready
-
-Built to scale and evolve over time
+**Type:** Custom System Architecture  
+**Focus:** Schema design, dashboards, business rules, reporting  
+**Goal:** Reliable systems for real business operations
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🧠 Interactive Engineering Profile
+## 🏗️ Architecture Mindset
 
-<details>
-<summary><b>✨ Current Development Mindset</b></summary>
-<br/>
-
-- Building with a balance of **design quality** and **technical structure**
-- Focusing on **business systems**, **clean code**, and **database-driven workflows**
-- Turning concepts into usable products with **real implementation value**
-- Prioritizing **clarity**, **maintainability**, and **long-term growth**
-
-</details>
-
-<details>
-<summary><b>🚀 What I Like Building</b></summary>
-<br/>
-
-- Admin dashboards
-- Inventory and warehouse platforms
-- Sales and reporting systems
-- Portfolio and service websites
-- Business-focused full stack applications
-- Database-driven tools and custom web systems
-
-</details>
-
-<details>
-<summary><b>🧰 Development Principles</b></summary>
-<br/>
-
-- Build for users, not just for screenshots
-- Keep architecture understandable and scalable
-- Design database logic carefully before complex workflows
-- Make UI clean, modern, and consistent
-- Deliver work that teams can maintain confidently
-
-</details>
-
-<details>
-<summary><b>🌟 Professional Direction</b></summary>
-<br/>
-
-I aim to build systems that connect **beautiful interfaces**, **strong engineering**, and **reliable business functionality**.
-
-My direction is centered on:
-
-- premium web experiences
-- modern engineering practices
-- structured full stack product development
-- practical solutions for real business needs
-
-</details>
-
----
-
-## 🪄 Design + Development Signature
-
-<div align="center">
-
-```text
-Premium visuals + Real business logic + Clean architecture = Meaningful products
+```mermaid
+graph TD
+    A[Business Problem] --> B[Product Workflow]
+    B --> C[UI / UX System]
+    C --> D[Frontend Architecture]
+    D --> E[Backend Logic]
+    E --> F[Database Design]
+    F --> G[Reports / Analytics]
+    G --> H[Production Delivery]
 ```
 
-</div>
+I build systems by connecting business requirements with clean technical execution:
 
-### My signature approach:
-
-- I treat **design and development as one system**, not two separate tasks.
-- I focus on interfaces that feel modern and polished.
-- I structure code for clarity, maintainability, and future extension.
-- I build digital products that are useful, stable, and professional.
+- **Experience Layer:** clean UI, responsive design, interaction quality
+- **Product Layer:** workflow design, smart forms, conversion structure
+- **Application Layer:** components, state management, API integration
+- **Data Layer:** schema, validation, calculations, reporting
+- **Delivery Layer:** GitHub workflow, deployment, maintainability
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Toofan1231&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=16" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toofan1231&layout=compact&theme=github_dark&hide_border=true&border_radius=16" alt="Top Languages" />
+
+<br />
+<br />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Toofan1231&theme=github-dark-blue&hide_border=true&border_radius=16" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Toofan1231&theme=react-dark&hide_border=true&radius=16&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophy Board
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Toofan1231&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🧭 Engineering Principles
+
+```txt
+Clean code is not only about syntax.
+It is about structure, reliability, data accuracy, and long-term maintainability.
+```
+
+- Build features that solve real operational problems.
+- Keep UI clean, fast, and understandable for users.
+- Design database logic before writing complex workflows.
+- Make reports and calculations transparent and testable.
+- Deliver projects with structure that teams can maintain.
+
+---
+
+## 🤝 Contact
 
 <div align="center">
 
@@ -435,8 +344,8 @@ Premium visuals + Real business logic + Clean architecture = Meaningful products
   <img src="https://img.shields.io/badge/GitHub-Toofan1231-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br/>
-<br/>
+<br />
+<br />
 
 📍 Kabul, Afghanistan
 
@@ -446,8 +355,8 @@ Premium visuals + Real business logic + Clean architecture = Meaningful products
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F79A,45:0E7490,100:020617" alt="footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00F79A,50:0E7490,100:0F172A)
 
-### ⚡ Engineering modern digital systems with premium design and strong architecture
+### Engineering practical systems with strong architecture 🚀
 
 </div>
