@@ -39,18 +39,21 @@
 <td align="center" width="33%">
 
 ### 🔁 From Manual
+
 Paper-based work, scattered data, slow reporting, and repeated daily tasks.
 
 </td>
 <td align="center" width="33%">
 
 ### ⚙️ To Digital
+
 Clean dashboards, structured workflows, database-driven systems, and automation-ready logic.
 
 </td>
 <td align="center" width="33%">
 
 ### 🚀 To Growth
+
 Faster decisions, better control, professional user experience, and scalable architecture.
 
 </td>
@@ -83,7 +86,7 @@ I am **Abdul Kabir ALAMYAR**, a Full Stack Software Engineer focused on building
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-Professional-2563EB?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Native-2563EB?style=for-the-badge)
 ![Dari](https://img.shields.io/badge/Dari-Native-16A34A?style=for-the-badge)
 ![Pashto](https://img.shields.io/badge/Pashto-Native-DC2626?style=for-the-badge)
 
@@ -183,39 +186,6 @@ I am **Abdul Kabir ALAMYAR**, a Full Stack Software Engineer focused on building
 
 </div>
 
-### Afghan Paints Management System
-
-A business platform designed for real operational workflow, product management, warehouse control, sales processing, profit calculation, and reporting.
-
-| Area | Engineering Focus |
-|---|---|
-| **Product Management** | Product code, product type, unit conversion, purchase price logic |
-| **Warehouse Control** | Inventory flow, stock updates, purchase handling |
-| **Sales Processing** | Carton, piece, gram, kilo, and meter-based sales workflows |
-| **Profit Calculation** | Dynamic profit logic based on purchase price and selling price |
-| **Reporting** | Business reports, PDF export, profit summaries |
-| **Interface** | RTL polish, smart forms, clean operator experience |
-
-### System Modules
-
-- Product Management
-- Warehouse / Inventory Control
-- Sales Processing
-- Profit Calculation
-- Reports and PDF Export
-- Smart Forms for different product units
-
-### Stack Used
-
-![React](https://img.shields.io/badge/React-UI%20Layer-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-Clean%20UI-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-State%20Management-111827?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?style=flat-square&logo=vite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database%20Logic-2563EB?style=flat-square)
-
----
-
 ## 💼 Project Portfolio
 
 <table>
@@ -261,62 +231,6 @@ A business platform designed for real operational workflow, product management, 
 </td>
 </tr>
 </table>
-
----
-
-## 🏗️ Architecture Mindset
-
-```mermaid
-graph TD
-    A[Business Problem] --> B[Product Workflow]
-    B --> C[UI / UX System]
-    C --> D[Frontend Architecture]
-    D --> E[Backend Logic]
-    E --> F[Database Design]
-    F --> G[Reports / Analytics]
-    G --> H[Production Delivery]
-```
-
-I build systems by connecting business requirements with clean technical execution:
-
-- **Experience Layer:** clean UI, responsive design, interaction quality
-- **Product Layer:** workflow design, smart forms, conversion structure
-- **Application Layer:** components, state management, API integration
-- **Data Layer:** schema, validation, calculations, reporting
-- **Delivery Layer:** GitHub workflow, deployment, maintainability
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Toofan1231&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=16" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toofan1231&layout=compact&theme=github_dark&hide_border=true&border_radius=16" alt="Top Languages" />
-
-<br />
-<br />
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Toofan1231&theme=github-dark-blue&hide_border=true&border_radius=16" alt="GitHub Streak" />
-
-<br />
-<br />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Toofan1231&theme=react-dark&hide_border=true&radius=16&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophy Board
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Toofan1231&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🧭 Engineering Principles
 
